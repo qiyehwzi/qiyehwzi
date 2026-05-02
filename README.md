@@ -11,4 +11,4 @@
 ---
 
 ## 🌐 Visit My Personal Website
-[core-pixel-lab.github.io](https://core-pixel-lab.github.io)
+[qiyehwzi.github.io](https://qiyehwzi.github.io)
